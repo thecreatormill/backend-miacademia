@@ -290,17 +290,3 @@ Cobertura:
 ```bash
 npm run test:cov
 ```
-
----
-
-# 📄 Licencia
-
-Este proyecto está bajo licencia MIT.
-
----
-
-# 👨‍💻 Autor
-
-**Franco Contreras**
-
-Proyecto desarrollado para la gestión académica de MiAcademia.
